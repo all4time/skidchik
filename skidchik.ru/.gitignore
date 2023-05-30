@@ -62,5 +62,9 @@ Thumbs.db
 /bitrix/stack_cache/
 /bitrix/html_pages/
 /bitrix/blocks/
+<<<<<<< HEAD
 /bitrix/resize_cache/
 
+=======
+/bitrix/resize_cache/
+>>>>>>> 09bbc6b (init)
