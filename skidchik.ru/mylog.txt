@@ -1,0 +1,36 @@
+Host: skidchik.ru:80
+Date: 2022-08-21 18:54:52
+Запись с кодом 288 изменена.
+#0: MyClass::OnAfterIBlockElementUpdateHandler
+	/home/bitrix/ext_www/skidchik.ru/bitrix/modules/main/classes/general/module.php:465
+#1: ExecuteModuleEventEx
+	/home/bitrix/ext_www/skidchik.ru/bitrix/modules/iblock/classes/mysql/iblockelement.php:1780
+#2: CIBlockElement->Update
+	/home/bitrix/ext_www/skidchik.ru/bitrix/modules/iblock/admin/iblock_element_edit.php:1092
+#3: require(string)
+	/home/bitrix/ext_www/skidchik.ru/bitrix/admin/iblock_element_edit.php:1
+----------
+Host: skidchik.ru:80
+Date: 2022-08-21 19:10:24
+Запись с кодом 288 изменена.
+#0: MyClass::OnAfterIBlockElementUpdateHandler
+	/home/bitrix/ext_www/skidchik.ru/bitrix/modules/main/classes/general/module.php:465
+#1: ExecuteModuleEventEx
+	/home/bitrix/ext_www/skidchik.ru/bitrix/modules/iblock/classes/mysql/iblockelement.php:1780
+#2: CIBlockElement->Update
+	/home/bitrix/ext_www/skidchik.ru/bitrix/modules/iblock/admin/iblock_element_edit.php:1092
+#3: require(string)
+	/home/bitrix/ext_www/skidchik.ru/bitrix/admin/iblock_element_edit.php:1
+----------
+Host: skidchik.ru:80
+Date: 2022-08-21 19:10:31
+Запись с кодом 288 изменена.
+#0: MyClass::OnAfterIBlockElementUpdateHandler
+	/home/bitrix/ext_www/skidchik.ru/bitrix/modules/main/classes/general/module.php:465
+#1: ExecuteModuleEventEx
+	/home/bitrix/ext_www/skidchik.ru/bitrix/modules/iblock/classes/mysql/iblockelement.php:1780
+#2: CIBlockElement->Update
+	/home/bitrix/ext_www/skidchik.ru/bitrix/modules/iblock/admin/iblock_element_edit.php:1092
+#3: require(string)
+	/home/bitrix/ext_www/skidchik.ru/bitrix/admin/iblock_element_edit.php:1
+----------

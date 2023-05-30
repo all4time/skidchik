@@ -1,0 +1,122 @@
+.color,
+.btn_main,
+.header .cart span,
+.services .item .name,
+.projects .item .name,
+.footer .social a:hover,
+.filter .toddler .fill,
+.filter .toddler .point,
+.filter .bx-ui-slider-pricebar-v,
+.catalog_items_view li.active,
+.pag li.first:hover,
+.pag li.right:hover,
+.jack .soc li a,
+.projects_list .item .quantity,
+.good .quantity,
+.reviews .soc li a,
+.worker .soc li a,
+.reference li.active a,
+.reference li:hover a,
+.good .detail ul li:before,
+.detail_text ul li:before,
+.list li:before,
+.list_disk li:before,
+.header .logo.color_logo img,
+.bx-wrapper .bx-prev:hover,
+.bx-wrapper .bx-next:hover,
+.owl-controls .owl-prev:hover,
+.owl-controls .owl-next:hover,
+.bx-wrapper .bx-pager.bx-default-pager a.active,
+.owl-dot.active,
+.btn_white:hover,
+.style-switcher .headers .header-inner,
+.style-switcher .options .link-item.current:not(.block),
+.custom_checkbox:hover > span {
+  background-color: #bd7a1f;
+}
+.color_text,
+.catalog_list .item ul li a:hover,
+.catalog_items .item .name a:hover,
+.services .item ul li a,
+.blog .item .theme,
+.blog .item .title a:hover,
+.news .item .title a:hover,
+.ques .sign span,
+.about_company .why a,
+.reviews_item .quote,
+.footer .links .sub a:hover,
+.footer .links ul li a:hover,
+.form label span,
+.agree p a,
+.fotnote span,
+.select .arrow .fa,
+.thank .circle span,
+.breadcrumbs li.active,
+.content .menu li .open .fa,
+.content .menu li a:hover,
+.content .menu li  a.dropdown_active,
+.content .menu li .open.active,
+.catalog_items_view li,
+.pag li a.active,
+.doc a:hover,
+.services .item ul li a:hover,
+.profit .circle > span,
+.progress .item .num,
+.partners_list .item .mail,
+.partners_list .item .name a:hover,
+.worker .item .mail,
+.accardion_item .plus .fa,
+.basket .del,
+.offices .item .mail,
+.offices .item .place .icon,
+.contacts_in .item a,
+.error_404 > span span,
+.toggleMenu,
+.nav > li > a .fa,
+.nav li li a .fa,
+.nav li li li:hover > a,
+.form .processing-block a,
+.accardion_item .description a,
+.show_more:hover span,
+.show_more:hover span .fa {
+  color: #bd7a1f;
+}
+.bx-wrapper .bx-pager.bx-default-pager a,
+.owl-dot {
+  border: 2px solid #bd7a1f;
+}
+.tabs_caption li.active,
+.style-switcher .options .link-item.current.block,
+.toggleMenu {
+  border-color: #bd7a1f;
+}
+.services .item ul li a:hover {
+  border-bottom: 1px solid #bd7a1f;
+}
+.more span,
+.basket_top .dropdown {
+  border-bottom: 2px solid #bd7a1f;
+}
+.blog_papers .item .pic,
+.blog .item .pic {
+  border-bottom: 4px solid #bd7a1f;
+}
+.content .menu li a.active {
+  background-color: #bd7a1f;
+  color: #fff !important;
+}
+.btn_white,
+.filter .reset {
+  border: 1px solid #bd7a1f;
+  color: #bd7a1f;
+}
+.on-off-switch-track-on {
+  background-color: #bd7a1f;
+  border-color: #bd7a1f;
+}
+.btn_main:hover {
+  background-color: #d78b23;
+}
+.jack .mail {
+  color: #774d14;
+}

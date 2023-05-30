@@ -1,0 +1,4 @@
+div.title-search-result { border: 0px; display: none; overflow: hidden; z-index: 205; box-shadow: 0 0 10px 0 rgba(0,0,0,.1); padding: 5px; font-size: 14px; background: #fff; padding: 10px; }
+a.search_results__listing__block_heading { padding: 0px 10px; font-size: 15px; color: #3c3f42;}
+.search_results__listing__block_image img { max-width: 15%; float: left; padding: 0px 10px; }
+.search_results__listing__block { clear: both; margin-top: 15px; padding-bottom: 10px; min-height: 35px; border-bottom: 1px solid #efefef; display: inline-block; width: 100%; vertical-align: middle; }
